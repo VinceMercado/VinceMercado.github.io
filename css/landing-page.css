@@ -22,6 +22,13 @@ body, h1, h2, h3, h4, h5, h6 {
   background: url(../img/intro-bg.jpg) no-repeat center center;
   background-size: cover;
 }
+.gallery-header {
+  padding-top: 50px;
+  text-align: center;
+  color: #B2AEAE;
+  family-font: Helvetica;
+
+}
 
 .intro-message {
   position: relative;
