@@ -18,12 +18,13 @@ body, h1, h2, h3, h4, h5, h6 {
   padding-top: 50px;
   padding-bottom: 50px;
   text-align: center;
-  color: #000000;
+  color: #f8f8f8;
   background: url(../img/intro-bg.jpg) no-repeat center center;
   background-size: cover;
 }
 .gallery-header {
   padding-top: 50px;
+  padding-bottom: 0px;
   text-align: center;
   color: #B2AEAE;
   family-font: Helvetica;
